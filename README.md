@@ -2,5 +2,5 @@
 
 This is a test of using git/github with gitkraken app on OSX.
 
-The rest of this file is an article copied from wikipedia:
+Within the movie folder you will find folders organized by directory name containing markdown files about their best movies.
 
